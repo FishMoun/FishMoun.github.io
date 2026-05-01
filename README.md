@@ -21,7 +21,7 @@ npm run build
 
 ## 发布到 GitHub Pages
 
-1. 在 GitHub 创建仓库，推荐个人站点仓库名使用 `<your-github-username>.github.io`。
+1. 在 GitHub 创建仓库，推荐个人站点仓库名使用 `FishMoun.github.io`。
 2. 将 `_config.yml` 中的 `url` 改成你的 Pages 地址。
 3. 推送到 `main` 分支。
 4. 在仓库 `Settings -> Pages` 中将 `Build and deployment` 的 `Source` 设置为 `GitHub Actions`。

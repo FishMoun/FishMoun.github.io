@@ -5,10 +5,10 @@ keywords:
   - Hexo
   - GitHub Pages
   - Blog
-author: Your Name
+author: FishMoun
 language: zh-CN
 timezone: Asia/Shanghai
-url: https://your-github-username.github.io
+url: https://FishMoun.github.io
 root: /
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null

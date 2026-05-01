@@ -115,11 +115,11 @@ navbar:
     links:
         GitHub:
             icon: fab fa-github
-            url: https://github.com/your-github-username
+            url: https://github.com/FishMoun
 # Page footer configurations
 footer:
     # Copyright text
-    copyright: © 2026 Your Name
+    copyright: © 2026 FishMoun
     # Links to be shown on the right of the footer section
     links:
         Creative Commons:
@@ -130,7 +130,7 @@ footer:
             url: https://creativecommons.org/licenses/by/4.0/
         GitHub:
             icon: fab fa-github
-            url: https://github.com/your-github-username
+            url: https://github.com/FishMoun
 # Article related configurations
 article:
     # Code highlight settings
@@ -218,7 +218,7 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Your Name
+        author: FishMoun
         # Author title
         author_title: 技术与生活记录者
         # Author's current location
@@ -230,12 +230,12 @@ widgets:
         # Email address for the Gravatar
         gravatar: 
         # URL or path for the follow button
-        follow_link: https://github.com/your-github-username
+        follow_link: https://github.com/FishMoun
         # Links to be shown on the bottom of the profile widget
         social_links:
             Github:
                 icon: fab fa-github
-                url: https://github.com/your-github-username
+                url: https://github.com/FishMoun
             RSS:
                 icon: fas fa-rss
                 url: /atom.xml
