@@ -1,10 +1,13 @@
 ---
 title: {{ title }}
 date: {{ date }}
-tags:
+updated: {{ date }}
+categories: []
+tags: []
+keywords:
+  - {{ title }}
+description: 
 ---
-
-# {{ title }}
 
 ## 前言
 

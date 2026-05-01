@@ -59,7 +59,8 @@ time_format: HH:mm:ss
 updated_option: mtime
 per_page: 10
 pagination_dir: page
-include: null
+include:
+  - .nojekyll
 exclude: null
 ignore: null
 theme: icarus
