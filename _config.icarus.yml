@@ -224,9 +224,9 @@ widgets:
         # Author's current location
         location: China
         # URL or path to the avatar image
-        avatar: 
+        avatar: https://github.com/FishMoun.png
         # Whether show the rounded avatar image
-        avatar_rounded: false
+        avatar_rounded: true
         # Email address for the Gravatar
         gravatar: 
         # URL or path for the follow button
