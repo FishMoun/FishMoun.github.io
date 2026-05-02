@@ -6,8 +6,8 @@
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
-    "dev": "hexo server",
-    "server": "hexo server"
+    "dev": "hexo server -p 4111",
+    "server": "hexo server -p 4111"
   },
   "hexo": {
     "version": "8.1.1"
